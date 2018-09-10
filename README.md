@@ -1,2 +1,2 @@
-# Finite-Difference-Solution-to-Convection-Diffusion-w--Langmuir-Adsorption
+# Finite-Difference-Solution-to-1D-Convection-Diffusion-Equation
 In this repository you can find scripts to solve dimensionless 1D convection-diffusion equation w/ and w/o Langmuir adsorption using finite difference method. Moreover, the least square script is to estimate peclet number and Langmuir constants (k and beta) by fitting the model to adsorption experimental data.  Formulation and discretization are provided in the pdf file. 
